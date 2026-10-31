@@ -1,0 +1,6 @@
+{
+  "name": "Ex-UK Bicycles Kenya",
+  "description": "Premium quality Ex-UK imported bicycles in Kenya. Browse our verified catalogue of road bikes, mountain bikes, hybrids, and commuters with direct WhatsApp ordering and nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
